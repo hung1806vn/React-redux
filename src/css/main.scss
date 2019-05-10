@@ -1,16 +1,12 @@
 @import "colors";
 @import "../../node_modules/bootstrap/scss/bootstrap.scss";
 
-#randomInt {
-  background-color: $main;
-  border: 1px solid black;
-  color: white;
-  padding: 5px;
+.posts{
+  width: 90%;
+  margin: auto;
 }
 
-#randomRange {
-  background-color: $secondary;
-  border: 1px solid black;
-  color: white;
-  padding: 5px;
+.postform{
+  width: 90%;
+  margin: auto;
 }

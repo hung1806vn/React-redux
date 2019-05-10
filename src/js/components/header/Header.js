@@ -5,7 +5,7 @@ class Header extends Component {
   render() {
     return (
       <React.Fragment>
-        <Navbar totalCounters ={this.props.totalCounters}/>
+        <Navbar/>
       </React.Fragment>
     );
   }
